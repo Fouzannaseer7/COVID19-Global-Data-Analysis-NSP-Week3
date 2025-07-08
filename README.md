@@ -64,21 +64,3 @@ Perform Exploratory Data Analysis (EDA) on global COVID-19 data to:
 ## 📂 How to Run
 1. Clone or download this repository
 2. Open the Jupyter Notebook file:
-
-3. Run all cells in order to reproduce the analysis
-
----
-
-## ✅ Submission Details
-- **Program**: NSP Nexus – Data Science Internship
-- **Week**: 3
-- **Project**: COVID-19 Global Data EDA
-- **Submitted By**: Fouzan Naseer
-- **Dataset**: `owid-covid-data.csv`
-- **Notebook**: `COVID19_Data_Analysis_NSP_Week3.ipynb`
-
----
-
-## 📌 Disclaimer
-This project is for educational purposes only. Data used is publicly available and not updated in real time.
-
